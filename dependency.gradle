@@ -1,0 +1,12 @@
+ext {
+    compileSdkVersion = 30
+    buildToolsVersion = "30.0.2"
+    minSdkVersion = 21
+    targetSdkVersion = 30
+
+    dependencies = [
+            arouter_api: 'com.alibaba:arouter-api:1.5.1',
+            arouter_compiler: 'com.alibaba:arouter-compiler:1.5.1',
+            arouter_register: 'com.alibaba:arouter-register:1.0.2'
+    ]
+}

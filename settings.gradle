@@ -1,0 +1,6 @@
+include ':common'
+include ':biz_vip'
+include ':biz_login'
+include ':biz_home'
+include ':app'
+rootProject.name = "Zujianhua"
